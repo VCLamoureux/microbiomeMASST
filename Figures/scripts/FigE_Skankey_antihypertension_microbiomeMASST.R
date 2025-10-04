@@ -7,7 +7,7 @@ library(htmlwidgets)
 
 # import the FASST results from the python script
 files <- list.files(
-  path       = "/Users/vincentlamoureux/Desktop/output5",
+  path       = "/Users/vincentlamoureux/Desktop/antihypertensive_drug_FASST",
   pattern    = "matches\\.tsv$",
   full.names = TRUE)
 
