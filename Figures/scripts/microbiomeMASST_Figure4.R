@@ -2,21 +2,7 @@
 setwd("/Users/vincentlamoureux/Library/CloudStorage/")
 
 # load packages 
-library(readxl)
-library(mixOmics)
-library(ggpubr)
-library(vegan)
-library(caret)
-library(patchwork)
-library(tibble)
 library(tidyverse)
-library(viridis)
-library(pheatmap)
-library(forcats)
-library(rstatix)
-library(broom)
-library(purrr)
-library(data.table)
 library(reshape2)
 
 # remove mzml and peak area extensions
