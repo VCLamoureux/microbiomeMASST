@@ -1,3 +1,4 @@
+## Many files from that script are too big to upload to github. If needed, please reach out to me and will be happy to send the original files
 # Set working directory
 setwd("/Users/vincentlamoureux/Library/CloudStorage/")
 
