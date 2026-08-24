@@ -1,7 +1,7 @@
 # A searchable metadata network graph for microbiome metabolomics
 We created microbiomeMASST, a metadata-driven network graph that maps metabolites across 467 available datasets with 144,424 mass spectrometry files from humans, animals, and microbial culture systems. MicrobiomeMASST integrates monocultures, synthetic communities, and host-associated samples across multiple body sites and plants.
 
-<img width="6139" height="2705" alt="microbiomeMASST_github@900x" src="https://github.com/user-attachments/assets/86f1ab3d-a988-426a-96e4-6a42ab58f40f" />
+<img width="1122" height="511" alt="Screenshot 2026-08-24 at 1 20 04 PM" src="https://github.com/user-attachments/assets/42d9df82-6f09-4dc5-a702-25779c8d0f94" />
 
 
 # System requirements
